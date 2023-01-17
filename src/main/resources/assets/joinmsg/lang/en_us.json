@@ -1,0 +1,8 @@
+{
+    "gui.signgui.line1": "Line 1",
+    "gui.signgui.line2": "Line 2",
+    "gui.signgui.line3": "Line 3",
+    "gui.signgui.line4": "Line 4",
+    "key.signgui":"Sign Editor",
+    "gui.signgui.text":"NBT: "
+}

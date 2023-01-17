@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "scoreboardbackup",
+  "version": "${mod_version}",
+
+  "name": "Scoreboard-Backup",
+  "description": "Scoreboard Backup Mod By wifi_left",
+  "authors": [
+    "wifi_left"
+  ],
+  "contact": {
+    "homepage": "https://github.com/wifi-left",
+    "sources": "https://github.com/wifi-left"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/sbk/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.wifi.sbk.sbk"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "*",
+    "java": ">=17"
+  },
+  "mixins": [
+    "sbk.mixins.json"
+  ]
+}
