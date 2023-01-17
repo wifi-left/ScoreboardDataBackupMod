@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "scoreboardbackup",
-  "version": "${mod_version}",
+  "version": "${version}",
 
   "name": "Scoreboard-Backup",
   "description": "Scoreboard Backup Mod By wifi_left",
